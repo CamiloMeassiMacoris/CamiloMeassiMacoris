@@ -93,26 +93,6 @@ Atualmente meu foco está em:
 
 ---
 
-## O que eu posso construir
-
-- landing pages e páginas institucionais;
-- interfaces com React e Next.js;
-- APIs com Node.js e Express;
-- CRUDs, dashboards e integrações;
-- automações e scraping com JavaScript;
-- manutenção, melhoria e organização de projetos existentes.
-
----
-
-## GitHub em números
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CamiloMeassiMacoris&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloMeassiMacoris&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
 <!--
 Antes de publicar, troque:
 - SEU-LINKEDIN-AQUI pelo link real do seu LinkedIn.
