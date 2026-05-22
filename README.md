@@ -113,12 +113,6 @@ Atualmente meu foco está em:
 
 ---
 
-## Bora conversar?
-
-Estou aberto a freelas, projetos de estudo, colaboração e troca de ideias sobre desenvolvimento web.
-
-Se você tem uma ideia, um projeto parado ou uma aplicação que precisa sair do papel, vamos conversar.
-
 <!--
 Antes de publicar, troque:
 - SEU-LINKEDIN-AQUI pelo link real do seu LinkedIn.
